@@ -10,13 +10,6 @@ Basically, there are three things you can do with this plug-in.
 
 ![Chicken Shot! Title](images/chicken_title.png)
 
-## How to Install
-
-It is available on Plug-in Store.
-https://pluginstore.theta360.com/plugins/theta360.meowshot/
-
-See here for installation instruction.
-https://theta360.com/en/ricoh_plugins/#install
 
 ## Usage
 
