@@ -1,3 +1,3 @@
 # Chicken Shot!
 
-This is an alpha release of Chicken Shot! by Chuck Pressman.
+This is an alpha release of Chicken Shot! by community member Chuck P.
